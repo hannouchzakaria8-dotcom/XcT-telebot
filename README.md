@@ -93,4 +93,4 @@ When **Protect Content** is enabled in the privacy settings, the application aut
 Contributions, bug reports, and feature requests are welcome. Feel free to fork the repository and submit pull requests for review.
 
 ---
-*Developed with ❤️ as an open-source contribution for Telegram Bot developers.*
+*Developed as an open-source contribution for Telegram Bot developers.*
